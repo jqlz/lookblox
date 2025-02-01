@@ -1,5 +1,5 @@
-# Roblox Lookup Tool
-Welcome to the **Roblox Lookup Tool**! This tool is designed to provide users with a fast, reliable, and user-friendly way to look up Roblox player information by either username or ID.
+# PyBlox
+Welcome to **PyBlox**! This tool is designed to provide users with a fast, reliable, and user-friendly way to look up Roblox player information by either username or ID.
 
 ## Features
 **Fast and Efficient**: Our tool quickly retrieves player data, ensuring you get the information you need without unnecessary delays.
