@@ -13,18 +13,17 @@ Welcome to **lookblox**! This tool is designed to provide users with a fast, rel
 **Lookup by Username or ID**: Whether you have a username or a player ID, our tool allows you to find the information you need quickly and effortlessly.
 
 ## To-Do list
-
-[x] Cleaner UI
-[ ] Discord to Roblox
-[ ] Roblox to Discord
-[x] Past usernames
-[x] Date Created
-[x] Inventory
-[ ] Game Lookup
-[ ] Roblox Tax Calculator
-[ ] Avatar Image
-[x] Username & Display
-[ ] Even more results
+- [x] Cleaner UI
+- [ ] Discord to Roblox
+- [ ] Roblox to Discord
+- [x] Past usernames
+- [x] Date Created
+- [x] Inventory
+- [ ] Game Lookup
+- [ ] Roblox Tax Calculator
+- [ ] Avatar Image
+- [x] Username & Display
+- [ ] Even more results
 
 ## How to Use
 
