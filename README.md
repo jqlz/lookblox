@@ -1,16 +1,16 @@
 # looblox
-Welcome to **lookblox**! This tool is designed to provide users with a fast, reliable, and user-friendly way to look up Roblox player information by either username or ID.
+Welcome to **lookblox**! This is a utility program to help fetch information about roblox players fast, efficiently and in a reliable and user-friendly way either through their username or id.
 
 ## Features
-**Fast and Efficient**: Our tool quickly retrieves player data, ensuring you get the information you need without unnecessary delays.
+**Speedy Results**: Our software will fetch players data in rapid speed, guaranteeing you quick delivery of needed data without irrelevant time wastages.
 
-**Reliable Access**: We utilize roblox APIs to ensure that the data you receive is always accurate and up-to-date.
+**Always Accurate and up-to-date data**: Because we make the data available by utilising the roblox APIs, you'll be guaranteed only correct and recently updated data.
 
-**Safe and Secure**: We prioritize your safety. The Roblox Lookup Tool is completely free from malware and has been thoroughly tested to ensure a secure user experience.
+**Safe and Secure**: Your safety is a concern for us. The Roblox Lookup Tool contains no malware whatsoever and is tested to ensure that the users interacting with it will have a safe experience.
 
-**User-Friendly Interface**: The minimalist design makes it easy for anyone to navigate and use the tool, regardless of technical expertise.
+**User-Friendly Interface**: The minimalist design makes the tool very approachable and user-friendly for anybody, regardless of their technical skills.
 
-**Lookup by Username or ID**: Whether you have a username or a player ID, our tool allows you to find the information you need quickly and effortlessly.
+**Lookup by Username or ID**: With our tool, regardless of whether you have a username or player ID, you will have the information in a very quick and easy manner.
 
 ## To-Do list
 - [x] Cleaner UI
@@ -23,24 +23,24 @@ Welcome to **lookblox**! This tool is designed to provide users with a fast, rel
 - [ ] Roblox Tax Calculator
 - [ ] Avatar Image
 - [x] Username & Display
-- [ ] Even more results
+- [] More results
 
 ## How to Use
 
-Enter Username or ID: Simply enter the username or user id, click enter
+Enter Username or ID: Simply enter the username or user id, hit enter
 
-View Results: The player’s information will be displayed, including their badges and more
+Results: See players information with his badges and so on and so forth.
 
 ## Why Choose Us?
-**No Malware**: We take your security seriously. Our tool is scanned regularly to ensure it remains free from viruses and malware.
+**Malware Free**: We care about your safety more than our own. The tool is scanned periodically to ensure that it remains free from viruses/malware.
 
-proven by: https://cdn.injured.lol/owny20yt.mp4
+attested by: https://cdn.injured.lol/owny20yt.mp4
 
-**Community-Driven**: We value feedback and constantly strive to improve our tool based on user suggestions.
+**Community-Driven**: We are glad to get all kinds of feedback and maintain improvements on the tool from our user's ideas.
 
-**We welcome contributions!** If you have suggestions for improvements or new features, please feel free to open an issue or submit a pull request.
+**Contribute**: Open an issue or a pull request for any idea for improvements/feature additions you would like to add.
 
 # License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-Thank you for using the Roblox Lookup Tool! We hope you find it helpful and easy to use. Happy gaming!
+Thank you for trying the Roblox Lookup Tool! We hope you find it very helpful and easy to use. Happy gaming!
