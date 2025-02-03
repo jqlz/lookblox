@@ -34,6 +34,8 @@ View Results: The player’s information will be displayed, including their badg
 ## Why Choose Us?
 **No Malware**: We take your security seriously. Our tool is scanned regularly to ensure it remains free from viruses and malware.
 
+proven by: https://cdn.injured.lol/owny20yt.mp4
+
 **Community-Driven**: We value feedback and constantly strive to improve our tool based on user suggestions.
 
 **We welcome contributions!** If you have suggestions for improvements or new features, please feel free to open an issue or submit a pull request.
