@@ -1,3 +1,5 @@
+# discontinued
+
 # looblox
 Welcome to **lookblox**! This is a utility program to help fetch information about roblox players fast, efficiently and in a reliable and user-friendly way either through their username or id.
 
